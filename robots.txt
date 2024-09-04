@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atedayonr.github.io/sitemap.html.gz
+Sitemap: https://atedayonr.github.io/app/sitemap.html.gz
+Sitemap: https://atedayonr.github.io/assets/sitemap.html.gz
+Sitemap: https://atedayonr.github.io/css/sitemap.html.gz
+Sitemap: https://atedayonr.github.io/includes/sitemap.html.gz
+Sitemap: https://atedayonr.github.io/item/sitemap.html.gz
+Sitemap: https://atedayonr.github.io/src/sitemap.html.gz
